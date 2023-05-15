@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Meu layout youtube",
+  "version": "0.1",
+  "description": "uma extenção para usar meu layout no youtube",
+  "permissions":["scripting"],
+  "content_scripts": [
+                        {
+      "js": ["scripts/content.js"],
+      "matches": ["https://www.youtube.com/*","https://m.youtube.com/*"]
+                        }
+                    ]
+}
