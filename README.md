@@ -1,6 +1,6 @@
-### youtube_layout
+# Youtube Layout
 ## Uma extensão para o Chrome que aplica minhas preferencias ao layout do Youtube 
-# preferencias pessoais
+### preferencias pessoais
 * remover o chips (cards de categorias da tela principal)
 * alteração nas cores dos títulos
 * remover os vídeos sugeridos enquanto se assiste à algum vídeo
@@ -8,7 +8,12 @@
 * retirar os cantos arredondados das thumbnails na tela principal
 
 
-# possíveis implementações futuras
+### possíveis implementações futuras
 * centralizar o campo de comentarios
 * mudar background na tela de exibição
 * exibir thumbnails de canais em que o usuário é inscrito com cores diferentes
+
+### Bugs e melhorias
+* Não funciona no novo layout do youtube
+* Não funciona no domínio m.youtube.com
+
